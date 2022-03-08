@@ -1,0 +1,19 @@
+Course/Section: CS-102/3
+Name and ID number: Cem Hakverdi 21601374
+Date: 15/02/2021  
+Estimated time on the exercise: 2-4 hours
+Status of the code: Working!
+
+Difficulties
+-	Some of the codes were missing some crucial parts(my group included) so that I need to read and understand
+    the whole structure of the code that my friends wrote.
+    
+-	While trying to understand the code, I face some problems since everybody have a unique style of code writing.
+
+-	Some of these problems were different names for the properties, some code parts that was not working with the main method etc.
+
+Ways to avoid the problems  
+-	I saw that some of my friends write good comments on their codes. 
+    This is a great way to avoid the problems because I understood the code by just reading their comments.
+    
+-	If we can stick on the names of the properties or methods all the time there will be no problem to connect the class and the main method together.
